@@ -1,6 +1,7 @@
-Amati,Gabriel
-Anelli,Matteo
-Bardaro,Marco
-Acquaviva,Mattia
-Bissante,Federico
-Bevilacqua,Antonio
+Amati,Gabriel,7.0,6.4,8.2
+Anelli,Matteo,7.8,8.2,9.0,6.6
+Bardaro,Marco,8.1,8.0,8.5
+Acquaviva,Mattia,6.4,6.8,5.5,6.0
+Bissante,Federico,6.5,7.5
+Bevilacqua,Antonio,9.0,8.5,9.0
+Macchitella,Marco,6.0,6.4,7.3,7.0,5.5
