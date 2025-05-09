@@ -46,10 +46,10 @@ public class Classe {
         List<Studente> stud = new ArrayList<>();
         for (Persona p : studenti) {
             if (p instanceof Studente) {
-                stud.add((Studente) p);
+                stud.add((Studente)p);
             }
         }
-        stud.sort(new OrdinaVoti());
+        stud.sort(Collections.reverseOrder(new OrdinaVoti()));
         System.out.println("--------------------------------------");
         System.out.println("Elenco studenti ordinati per media:");
         System.out.println("--------------------------------------");
